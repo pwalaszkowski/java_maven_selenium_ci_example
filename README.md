@@ -25,4 +25,6 @@ Not working? try below commands:
 
 * Gitlab CI build: [![Pipeline Status](https://gitlab.com/pwalaszkowski/java_maven_selenium_ci_example/badges/main/pipeline.svg)](https://gitlab.com/pwalaszkowski/java_maven_selenium_ci_example/-/commits/main)
 
-* Circle CI build: [![CircleCI](https://app.circleci.com/pipelines/github/pwalaszkowski/java_maven_selenium_ci_example.svg?style=shield)](https://app.circleci.com/pipelines/github/pwalaszkowski/java_maven_selenium_ci_example)
+* Circle CI build: [![CircleCI](https://circleci.com/pipelines/github/pwalaszkowski/java_maven_selenium_ci_example.svg?style=shield)](https://circleci.com/pipelines/github/pwalaszkowski/java_maven_selenium_ci_example)
+
+[![<ORG_NAME>](https://circleci.com/<VCS>/<ORG_NAME>/<PROJECT_NAME>.svg?style=svg)](<LINK>)
