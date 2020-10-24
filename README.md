@@ -20,5 +20,7 @@ Not working? try below commands:
 * `mvn clean verify -Doverwrite.binaries=true`
 * Delete the `selenium_standalone_binaries` folder in your resources directory
 
-### Build status:
-[![Build Status](https://travis-ci.org/pwalaszkowski/java_maven_selenium_travis_ci_example.svg?branch=main)](https://travis-ci.org/pwalaszkowski/java_maven_selenium_travis_ci_example)
+### Build status
+* Travis CI build: [![Build Status](https://travis-ci.org/pwalaszkowski/java_maven_selenium_travis_ci_example.svg?branch=main)](https://travis-ci.org/pwalaszkowski/java_maven_selenium_travis_ci_example)
+
+* Gitlab CI build: [![pipeline status](https://gitlab.com/pwalaszkowski/java_maven_selenium_ci_example/badges/main/pipeline.svg)](https://gitlab.com/pwalaszkowski/java_maven_selenium_ci_example/-/commits/main)
