@@ -16,7 +16,7 @@ Specify to execute tests using headless mode or not, use below switches:
 * `-Dheadless=false`
 
 ### Troubleshooting:
-Not working try below commands:
+Not working? try below commands:
 * `mvn clean verify -Doverwrite.binaries=true`
 * Delete the `selenium_standalone_binaries` folder in your resources directory
 
