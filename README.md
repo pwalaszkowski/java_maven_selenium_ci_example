@@ -27,4 +27,3 @@ Not working? try below commands:
 
 * Circle CI build: [![CircleCI](
 https://circleci.com/gh/pwalaszkowski/java_maven_selenium_ci_example.svg?style=shield)](https://app.circleci.com/pipelines/github/pwalaszkowski/java_maven_selenium_ci_example)
-
