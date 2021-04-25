@@ -24,6 +24,3 @@ Not working? try below commands:
 * Travis CI build: [![Build Status](https://travis-ci.org/pwalaszkowski/java_maven_selenium_ci_example.svg?branch=main)](https://travis-ci.org/pwalaszkowski/java_maven_selenium_ci_example)
 
 * Gitlab CI build: [![Pipeline Status](https://gitlab.com/pwalaszkowski/java_maven_selenium_ci_example/badges/main/pipeline.svg)](https://gitlab.com/pwalaszkowski/java_maven_selenium_ci_example/-/commits/main)
-
-* Circle CI build: [![CircleCI](
-https://circleci.com/gh/pwalaszkowski/java_maven_selenium_ci_example.svg?style=shield)](https://app.circleci.com/pipelines/github/pwalaszkowski/java_maven_selenium_ci_example)
